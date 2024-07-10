@@ -1,0 +1,46 @@
+<head>
+  <link rel=stylesheet type=text/css href="style.css">
+  <script src="script.js"></script>
+</head>
+<body onload="init()">
+  <div class="field">
+   <div class="row">
+     <div class="column">
+       <text class="txt">Дата</text>
+       <input type="date" class="input">
+     </div>
+     <div class="column">
+       <text class="txt">Время</text>
+       <input type="time" class="input">
+     </div>
+   </div>
+   <text class="txt">Откуда</text>
+     <select class="from">
+       <option value="">Выберите город</option>
+       <option value="s2">Москва</option>
+       <option value="s3">Санкт-Петербург</option>
+       <option value="s4">Уфа</option>
+     </select>
+   <text class="txt">Куда</text>
+     <select class="to">
+       <option value="">Выберите город</option>
+       <option value="s2">Москва</option>
+       <option value="s3">Санкт-Петербург</option>
+       <option value="s4">Уфа</option>
+     </select>
+   <div class="alert txt"></div>
+   <text class="txt">Машина</text>
+     <select class="car">
+       <option value="">Выберите тип</option>
+       <option value="s2">Газель 3 м.</option>
+       <option value="s3">Каблук (при выборе 10% скидка)</option>
+     </select>
+   <p><input class="worker" type="checkbox" value="грузчик"> грузчик</p>
+   <text class="txt">ПРОМОКОД</text>
+   <input class="input promo">
+   <button class="button calculate">Рассчитать</button>
+   <text class="txt total">ИТОГО:</text>
+   <div class="achtung txt"></div>
+   <button class="button final submit order">ЗАКАЗАТЬ</button>
+  </div>
+</body>
