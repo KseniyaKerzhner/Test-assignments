@@ -15,3 +15,7 @@
 ### [Тестовое задание ГЕТ ТРАК](https://github.com/KseniyaKerzhner/Test-assignments/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%93%D0%95%D0%A2%20%D0%A2%D0%A0%D0%90%D0%9A.pdf)
 - Тестовое задание выполнено для ООО ГЕТ ТРАК РУС на позицию QA Engineer Junior / Младший специалист по тестированию;
 - Включает в себя составление SQL-запросов, составление тест-кейсов, тест-дизайн.
+
+### [Тестовое задание ООО Синтека](https://github.com/KseniyaKerzhner/Test-assignments/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9E%D0%9E%D0%9E%20%D0%A1%D0%B8%D0%BD%D1%82%D0%B5%D0%BA%D0%B0.md) 
+- Тестовое задание ООО Синтека на позицию Junior_QA взято из [сборника тестовых заданий](https://github.com/Hexlet/ru-test-assignments?tab=readme-ov-file);
+- Включает в себя ответ на вопрос по логике, вопросы по Linux и составление SQL-запроса.
